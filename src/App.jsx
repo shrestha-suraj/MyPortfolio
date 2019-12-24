@@ -1,6 +1,9 @@
 import React,{Component} from 'react';
 import {BrowserRouter, Switch, Route} from 'react-router-dom';
 import HttpsRedirect from 'react-https-redirect';
+// import $ from 'jquery';
+// import Popper from 'popper.js';
+// import 'bootstrap/dist/js/bootstrap.bundle.min';
 import Home from './Tabs/Home';
 import About from './Tabs/About';
 import Projects from './Tabs/Projects';
