@@ -1,0 +1,11 @@
+.nav-tab{
+    height: inherit;
+}
+.nav-tab:hover{
+    background-color: green;
+    color:black;
+    border:none;
+    border-radius: 10px;
+    transition: all ease 0.1s;
+    transform: scale(1.3s);
+}
