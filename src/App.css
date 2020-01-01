@@ -1,3 +1,14 @@
 *{
   margin:0;
 }
+body {
+  height: 100%;
+}
+#wrapper{
+  min-height: 100vh;
+}
+#main {
+  min-height: 85vh;
+  background-color: #172A3A;
+  margin:0;
+}

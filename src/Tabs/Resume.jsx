@@ -1,9 +1,13 @@
 import React,{Component} from 'react';
+import MyResume from '../media/my_resume.jpg';
+import '../stylesheet/Resume.css';
 
 class Resume extends Component{
     render(){
         return(
-            <h1>This is Resume</h1>
+            <div className="container-fluid ml-auto mr-auto" id="resume_div">
+                <img  src={MyResume} alt="My Resume" />
+            </div>
         );
     }
 }

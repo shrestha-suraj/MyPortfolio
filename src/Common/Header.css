@@ -1,3 +1,6 @@
+#header{
+    max-height: 10vh;
+  }
 .nav-tab{
     height: inherit;
     width: fit-content;
