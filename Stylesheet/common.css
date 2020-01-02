@@ -1,0 +1,34 @@
+/* This css file consist of all the common styling for the html pages
+    These include: body, header footer and responsiveness for navigation tabs
+*/
+body{
+    margin:0;
+    padding:0;
+    background-color:#172A3A;
+    color:white;
+}
+.content-wrapper{
+    min-height: 95vh;
+}
+.nav-tab{
+    height: inherit;
+    width: fit-content;
+    margin-right: auto;
+    padding:0px 10px 0px 10px;
+}
+.nav-tab:hover{
+    background-color: green;
+    border:none;
+    border-radius: 10px;
+    transition: all ease 1s;
+    transform: scale(1.2);
+}
+.footer-div{
+    min-height: 5vh;
+    position: relative;
+}
+footer{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}

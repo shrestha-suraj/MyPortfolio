@@ -36,12 +36,3 @@ const headerContent = `
     </div>
 </nav>`;
 header.innerHTML=headerContent;
-
-//Set the style for the header and content wrapper
-const body=document.querySelector("body");
-body.classList.add("position-relative");
-body.classList.add("min-vh-100");
-body.style.backgroundColor="#172A3A";
-
-const main_wrapper=document.getElementById("#content-wrapper");
-main_wrapper.style.paddingBottom="2.5rem";
