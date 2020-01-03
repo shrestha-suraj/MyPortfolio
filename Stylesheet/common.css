@@ -32,3 +32,6 @@ footer{
     position: absolute;
     bottom: 0;
 }
+::-webkit-scrollbar { 
+    display: none; 
+}

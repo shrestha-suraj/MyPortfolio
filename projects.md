@@ -1,4 +1,4 @@
-## HabCal (VandyHacks)
+## HabCal (VandyHacks) *
 ### Short Note:
 Created a web application using react where you get introduced to your virtual pet (cat).
 The cat gets happy or sad depending on the activities and tasks you complete during the day.
@@ -7,7 +7,7 @@ HabCal is a kid friendly web application that triggers people to get good habits
 ### Technologies Used:
 React.js, Express.js, MongoDB, GIF Api, Ant-Design, HTML, CSS, Vanilla JS, Git & Github, VS-Code
 
-## StockAlert(VolHacks)
+## StockAlert(VolHacks) *
 ### Short Note:
 Developed and deployed a notification app that sends text notification to your phone when the price of a certain stock falls under the condition you provide.
 ### Long Note:
@@ -15,7 +15,7 @@ StockAlert is a simple notification application developed for desktop platform. 
 ### Technologies Used:
 Electron.js, HTML, CSS, Vanilla JS, Git & Github, VS-Code, Twilio API, Alphaadvantage API
 
-## DrumRoll (Fun Project)
+## DrumRoll (Fun Project) *
 ### Short Note:
 Designed a fun front-end website that mimics drum sounds. Basically, it listens to the key strokes and depending on particular stroke, it creates particular drum sound. This was my side project to learn Vanilla JS and CSS3.
 ###  Long Note:
@@ -23,13 +23,13 @@ While creating a fun web front-end application DrumRoll, I had opportunity to le
 ### Technologies Used:
 HTML, CSS, Vanilla JS, Vs-Code, Git & Github
 
-## C++ Intermediate (Class Project)
+## C++ Intermediate (Class Project) *
 ### Short Note:
 Worked on C++ programming for a semester. Learned the basics of the C++ programming and worked on six class projects.
 ### Long Note:
 C++ is a very fun programming language that started the trend of Object Orient Programming. When I came to realize that  Java was written in C++, I had to take this class to get the taste of C++. I did several coding challenges and also completed many projects for the class. All of those codes can be found on my github repository. In addition to this, I also performed a programming test for a company callled Think-Cell, where I had to take the <map.h> library function and modify it in order to take mapping of bounds i.e. (min, max) mapped to some data. The coding was a challenge and took me around 7 hours to finish.
 ### Technologies Used:
-C++, Vs-Code, Git & Github
+C++, DevC++, Vs-Code, Git & Github
 
 ## GoLang
 ### Short Note:
@@ -39,7 +39,7 @@ GoLang is very unique programming language for back-end development. This progra
 ### Technologies Used:
 GoLang, MySql, Vs-Code, Git & Github
 
-## CodeScene Analysis
+## CodeScene Analysis *
 ### Short Note:
 Analyzed and evaluated on going projects for the sign of Complexities i.e. Technical Depth and refactor accordingly. Helped me to learn how to optimize existing code and also to perform proper refactoring methods in order to make the complexity trend as low as possible for future coders in the project.
 ### Long Note:
@@ -47,7 +47,7 @@ CodeScene is software application that lets us run Technical Analysis on existin
 ### Technologies Used:
 CodeScence, Vs-Code, Git & Github
 
-## Linux System Programming
+## Linux System Programming *
 ### Short Note:
 Learned intermediate and complex Unix Programming using Linux Terminal. Familiarized myself with the Linux system and its use as a System Manager.
 ### Long Note:
@@ -55,7 +55,7 @@ Linux is very powerful and poplar Open-Source Operating System. I love this oper
 ### Technologies Used:
 Ubuntu, Terminal, Vim-Editor, Turing, WinSpc, PuTTY
 
-## Networking Protocols
+## Networking Protocols *
 ### Short Note:
 Coded custom File Transfer Protocol and User DataGram Protocol using Java Programming Language. Deployed and tested the Protocols by transferring files from client side folder to the server side folder by creating a authenticating cmd UI.
 ### Long Note:
@@ -63,7 +63,7 @@ The purpose of this project is to create a custom File Transfer Protocol and a U
 ### Technologies Used:
 Ecplise, Java, Git & Github
 
-## Delivrd
+## Delivrd *
 ### Short Note:
 Mimicked UberEats and LandShark to create a web-application for food runners. Helped me to build up the importance of team collaboration and created an atmosphere to dive into the world of react.js and express.js.
 ### Long Note:
@@ -71,13 +71,15 @@ Delivrd is a web application that was created with a team of 5 members including
 ### Technologies Used:
 React.js, Express.js, MongoDB, Vs-Code, Git & Github, POSTMan (Backend Testing)
 
-## Pizza-Mania
+## Pizza-Mania *
 ### Short Note:
-Created a decentralized web-application that creates a rewards system for pizza lovers. The transactions are handled on Ethereum  and the backend is written on smart contract using Solidity programming language.
+Created a decentralized application that creates a rewards system for pizza lovers. The transactions are handled on Ethereum  and the backend is written on smart contract using Solidity programming language.
 ### Long Note:
 Pizza-Mania was one of the newest projects I have worked on. This application is written on Blockchain, hence, fully decentralized and thus does not run on any back-end server. The front-end was designed on bootstrap and vs-code at the beginning which I switched to React later on. The back-end code is written in Ethereum smart contract using Solidity programming language and Remix online editor. The connection between the front-end react and the back-end smart contract is done using web3.js which is a very popular library for Ethereum blockchain. The contract can be deployed and used on any test network. The key concept behind this application is to make transaction using ETH and get rewards every time users buy pizza from any pizza place. The task is simple, buy  a pizza and get points for each pizza. When the total points is 10, you can order a pizza for free. But unlike traditional pizza rewards brand, this one is not subjected to any particular pizza company. You can buy pizza from any of the partners pizza companies and then earn rewards for a free one. This was my first step to decentralized application.
+### Technologies Used:
+Solidity, HTML, CSS, Javascript, Remix, Ganache, Web3.js
 
-## Database Management
+## Database Management *
 ### Short Note:
 Worked on several projects in  database management class for learning PHP and MySQL. The class was highly focused on developing and improving our skills on database management. 
 ### Long Note:
@@ -85,7 +87,7 @@ Database Management was one of my courses that I enjoyed the most. Thought we di
 ### Technologies Used:
 PHP, MySQL, WAMP, Notepad++, Git & Github
 
-## Custom Cipher Algorithm
+## Custom Cipher Algorithm *
 ### Short Note:
 Created a custom cipher algorithm using Python. Tested with accurate cipher and decipher of a texts. Want to deploy it in my own personal projects later.
 ### Long Note:
@@ -93,7 +95,7 @@ During my class for CryptoCurrency, I came across many kind of Cipher algorithms
 ### Technologies Used:
 Python, Vs-Code, Git & Github
 
-## Internet Dealers
+## Internet Dealers *
 ### Short Note:
 Deployed a functional website called "Internet Dealers" for Web Development Class. Created using regular web-development tools like bootstrap and vanilla javascript.
 ### Long Note:
@@ -101,36 +103,34 @@ Internet Dealers is a topic that I came up with to develop my website for the we
 ### Technologies Used:
 HTML5, CSS3, Vanilla JavaScript, Firebase/ FireStore, Bootstrap, Vs-Code, Git & Github
 
-## UltimateBattleground
+## UltimateBattleground *
 ### Short Note:
 Came up with an idea to create  a GameHub where Gamers can play games and then earn rewards for their victory. The website is still underdevelopment but can be accessed at www.ulimatebattleground.com
-### Long Answer:
+### Long Note:
 UltimateBattleground is an ongoing project of mine. This website is the first step that I am taking towards actual web development for consumer face. The website is simple. It is a game hub for players who play a game called PUBG (Player Unknown Battle Ground). The website allows users to login and spend ticket on lucky draw for a game. If chosen to play the game and if the player wins the game, the person is rewarded from us. The website has no use right now as it is still developing. The reason I stopped developing the website is because I wanted to switch to react.js and use mongodb for the database. Currently, the website runs on html, js, php and mysql which is also not responsive in nature. I wish to finish this project by the end of my final semester before my graduation.
 ### Technologies Used:
 HTML5, CSS3, Vanilla JS, PHP, MySQL, WAMP, WinSPC, Vs-Code, Git & Github
 
-## Maze Runner-Neural Network
+## Maze Runner-Neural Network *
 ### Short Note:
 Trained a neural network to identify and figure out if a maze has an exit or not. Tested with all possible data from a 5x5 block maze where 0 represents a path and 1 represents a block. Trained data with amount of (2^25) possibilities using University Super-Computer, the network could identify 97.3% of provided tests.
-### Long Answer:
+### Long Note:
 Working with neural network is one of my biggest and most fun project. When I dived in the area of Data Science, I was amazed of how data has been the new asset in 2019. I got the taste of this massive data when I had to design and test a neural network. The project was to create a neural network that could identify if a provided 5x5 matrix with 0's and 1's where 0 is a path and 1 is a block, is a maze or not. This meant that the maze should have opening at the top-left and should come out from the bottom-right. Unlike taking some sample data and training the network with long cycles, I created an algorithm that would give me all possible bits from 25 0's to 25 1's with the answer if they were maze or not. I trained my neural network using University Supercomputer as they provided me with extra computing power. It took me around 3 days to fully train my neural network using 2^25 data-sets and 1000 cycles. Eventually, when testing, the network could fully identify 97.3% of the total test case provided to it.
 ### Technologies Used:
-Python 2.7, Anaconda, Git & Github
+Python 2.7, Anaconda, Spyder, Git & Github
 
-## Motion Recognition
+## Motion Recognition *
 ### Short Note:
 Worked on python project to detect frequent motions on the image frames of provided video footage. Tested the project on a video frames of University cafeteria to see the results.
 ### Long Note:
 Motion Recognition is a small yet very interesting project I worked on during my Sophomore year. I was given a research opportunity to detect camera motions in order to analyze sudden moments on a steady area. For, this project, I had to come with a program that could taken in dynamic images as input which will be image frames taken from a video and output an image that marks the area mostly affect by motion. For this, I used python to get each RGB value of pixel in the images and calculate standard deviation from it. If the SD value of each pixel is greater than the threshold value, it was replaced by a red pixel. This is how the motions were tracked in a final sample output image.
 ### Technologies Used:
-Python 2.7, Anaconda, Git & Github
+Python 2.7, Anaconda, Spyder, Git & Github
 
-## Tv-Series Sentiment
+## Tv-Series Sentiment *
 ### Short Note:
 Created a program to perform sentimental analysis on a dialogue script of Tv-Series. Tested and correctly analyzed the test scripts using the sentiment lexicon data provided for the project.
 ### Long Note:
 Tv-Series Sentiment is one of the fascinating project I have worked on. For this project, we had to read through numerous dialogues script of a Tv-Series and decide if the each episode will create a positive, negative or neutral attitude towards the viewers. For the purpose of this project I was given a sentiment lexicon file. This file had words with their lexicon value ranging from -1 to +1. The word from -1.0 to -0.1 were considered negative where as from +0.1 to +1.0 were considered positive and 0.0 as neutral value. The program mostly dealt with creating and filtering the text of each episode dialogues. The words acquired was crossed checked with the words from sentiment lexicon to receive the lexicon value. These values were then plotted in a bar graph under X-axis with indices [Negative, W. Negative, Neutral, W. Positive and Positive]. This was done to give a visual presentation of the data.
 ### Technologies Used:
 Python 2.7, Anaconda, Spyder, Git & Github
-
-
