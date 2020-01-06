@@ -43,3 +43,13 @@
     text-decoration: none;
     cursor: pointer;
 }
+.each_card:hover{
+    transition:all ease 0.7s;
+    transform: scale(1.5rem);
+}
+#project_img{
+    text-align: center;
+}
+#project_img>img{
+    border:none;
+}

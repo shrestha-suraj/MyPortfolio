@@ -1,0 +1,23 @@
+#code {
+    background: #ccc;
+    padding:30px 0px 0px 0px;
+    border:none;
+    border-radius:20px;
+    margin:0 auto;
+    margin-bottom:50px;
+    margin-top: 30px;
+    font-family: 'Monaco', 'Courier New';
+    text-align: left;
+    color: #fafafa;
+}
+
+#console {
+    width: 100%;
+    padding:40px;
+    margin:0;
+    height: fit-content;
+    background: #383737;
+}
+.answer{
+    color:white;
+}

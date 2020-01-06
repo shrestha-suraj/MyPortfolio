@@ -21,13 +21,13 @@ const headerContent = `
                 <a class="nav-link text-white" href="about.html">About</a>
             </li>
             <li class="nav-item nav-tab">
+                <a class="nav-link text-white" href="experience.html">Work</a>
+            </li>
+            <li class="nav-item nav-tab">
                 <a class="nav-link text-white" href="projects.html">Projects</a>
             </li>
             <li class="nav-item nav-tab">
                 <a class="nav-link text-white" href="resume.html">Resume</a>
-            </li>
-            <li class="nav-item nav-tab">
-                <a class="nav-link text-white" href="hobbies.html">Hobbies</a>
             </li>
             <li class="nav-item nav-tab">
                 <a class="nav-link text-white" href="contact.html">Contact Me</a>
